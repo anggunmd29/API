@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "anggun"
+    },
+    {
+      "id": 2,
+      "username": "budi"
+    },
+    {
+      "id": 3,
+      "username": "citra"
+    },
+    {
+      "id": "a75f",
+      "username": "nurul"
+    }
+  ],
+  "moods": [
+    {
+      "id": 1,
+      "userId": 1,
+      "tanggal": "2025-07-08",
+      "mood": "Senang"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "tanggal": "2025-07-08",
+      "mood": "Sedih"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "tanggal": "2025-07-08",
+      "mood": "Bosan"
+    },
+    {
+      "id": "7ef8",
+      "userId": 1,
+      "tanggal": "2025-07-08",
+      "mood": "Senang"
+    },
+    {
+      "id": "9657",
+      "userId": 1,
+      "tanggal": "2025-07-08",
+      "mood": "Sedih"
+    },
+    {
+      "id": "1b57",
+      "userId": 1,
+      "tanggal": "2025-07-08",
+      "mood": "Bosan"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "nama": "Tebak Warna",
+      "deskripsi": "Cocok untuk menghibur di saat mood sedang sedih.",
+      "mood": "Sedih"
+    },
+    {
+      "id": 2,
+      "nama": "Tangkap Emoji",
+      "deskripsi": "Tangkap emoji bahagia, hindari lainnya!",
+      "mood": "Senang"
+    },
+    {
+      "id": 3,
+      "nama": "Puzzle Lucu",
+      "deskripsi": "Cocok untuk saat mood senang.",
+      "mood": "Senang"
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "userId": 2,
+      "gameId": 1,
+      "gameName": "Tebak Warna",
+      "score": 10,
+      "tanggal": "2025-07-07"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "gameId": 2,
+      "gameName": "Tangkap Emoji",
+      "score": 30,
+      "tanggal": "2025-07-08"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "gameId": 3,
+      "gameName": "Puzzle Lucu",
+      "score": 18,
+      "tanggal": "2025-07-08"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "gameId": 3,
+      "gameName": "Puzzle Lucu",
+      "score": 22,
+      "tanggal": "2025-07-09"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "gameId": 2,
+      "gameName": "Tangkap Emoji",
+      "score": 36,
+      "tanggal": "2025-07-09"
+    },
+    {
+      "id": "232e",
+      "userId": 1,
+      "gameId": 2,
+      "score": 5,
+      "tanggal": "2025-07-08"
+    }
+  ],
+  "leaderboard": [
+    {
+      "gameId": 1,
+      "gameName": "Tebak Warna",
+      "topScore": 10,
+      "userId": 2,
+      "username": "budi"
+    },
+    {
+      "gameId": 2,
+      "gameName": "Tangkap Emoji",
+      "topScore": 40,
+      "userId": 3,
+      "username": "citra"
+    },
+    {
+      "gameId": 3,
+      "gameName": "Puzzle Lucu",
+      "topScore": 22,
+      "userId": 1,
+      "username": "anggun"
+    }
+  ]
+}
